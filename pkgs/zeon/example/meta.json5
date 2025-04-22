@@ -1,0 +1,16 @@
+// An example metadata file for an application
+{
+  // Name for your application
+  name: "example app",
+  // A simple description for your application
+  shortDescription: "a simple example app.",
+  // Description for your application
+  description: "a simple example app",
+  // Who created this app? Should be the same as the folder name, or a localized string version.
+  author: "Zeon",
+  // App assets (shown in the app store)
+  assets: {
+    path: "app.zip",
+    icon: "assets/icon.svg",
+  },
+}
