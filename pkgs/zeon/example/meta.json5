@@ -11,6 +11,6 @@
   // App assets (shown in the app store)
   assets: {
     path: "app.zip",
-    icon: "assets/icon.svg",
+    icon: "assets/icon.png",
   },
 }
